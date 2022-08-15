@@ -20,4 +20,4 @@
 
 ## ![](https://i.imgur.com/16b6BnZ.png) Positions
 
-- Server-Side Intern @ [TovChain](https://tovchain.io/)
+- Server-Side Intern in TovChain @ [TovChain](https://tovchain.io/)
