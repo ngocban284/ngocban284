@@ -1,4 +1,4 @@
-# ![Hi!](https://cdn-icons-png.flaticon.com/512/2865/2865755.png) Hi there!
+# ![Hi!](https://imgur.com/gallery/Za9Quml) Hi there!
 
 ![Age: 21](https://img.shields.io/badge/age-21-green?style=for-the-badge)
 ![Type: Student](https://img.shields.io/badge/type-Student-yellow?style=for-the-badge)
