@@ -18,6 +18,6 @@
 ![GraphQL: Passing](https://img.shields.io/badge/GraphQL-passing-ff69b4?style=for-the-badge)
 ![Life: Zesty](https://img.shields.io/badge/Life-Zesty-red?style=for-the-badge)
 
-## (https://i.imgur.com/16b6BnZ.png) Positions
+## ![](https://i.imgur.com/16b6BnZ.png) Positions
 
 - Server-Side Intern @ [TovChain](https://tovchain.io/)
