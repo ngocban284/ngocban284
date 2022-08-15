@@ -1,16 +1,16 @@
-### Hi there 👋
+# ![Hi!](https://twemoji.maxcdn.com/v/13.0.0/72x72/1f44b.png) Hi there!
 
-<!--
-**ngocban284/ngocban284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Age: 21](https://img.shields.io/badge/age-19-green?style=for-the-badge)
+![Type: Student](https://img.shields.io/badge/type-Student-yellow?style=for-the-badge)
+![Job: Backend Engineer](https://img.shields.io/badge/work-backend%20engineer-orange?style=for-the-badge)  
+![C: Passing](https://img.shields.io/badge/C-passing-blueviolet?style=for-the-badge)
+![Solidity: Passing](https://img.shields.io/badge/Solidity-passing-black?style=for-the-badge)
+![TypeScript: Passing](https://img.shields.io/badge/Typescript-passing-blue?style=for-the-badge)
+![Ruby: Passing](https://img.shields.io/badge/Ruby-passing-red?style=for-the-badge)
+![Go: Running](https://img.shields.io/badge/Go-running-lightgray?style=for-the-badge)
+![Rust: Running](https://img.shields.io/badge/Rust-running-lightgray?style=for-the-badge)
+![Life: Zesty](https://img.shields.io/badge/Life-Zesty-red?style=for-the-badge)
 
-Here are some ideas to get you started:
+## 📛 Positions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Server-Side Intern @ [TovChain](https://tovchain.io/)
