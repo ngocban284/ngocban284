@@ -4,6 +4,7 @@
 ![Type: Student](https://img.shields.io/badge/type-Student-yellow?style=for-the-badge)
 ![Job: Backend Engineer](https://img.shields.io/badge/work-backend%20engineer-orange?style=for-the-badge)  
 ![C: Passing](https://img.shields.io/badge/C-passing-blueviolet?style=for-the-badge)
+![C++: Passing](https://img.shields.io/badge/C++-passing-violet?style=for-the-badge)
 ![Solidity: Passing](https://img.shields.io/badge/Solidity-passing-black?style=for-the-badge)
 ![JavaScript: Passing](https://img.shields.io/badge/JavaScript-passing-yellow?style=for-the-badge)
 ![TypeScript: Passing](https://img.shields.io/badge/Typescript-passing-blue?style=for-the-badge)
