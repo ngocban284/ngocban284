@@ -9,8 +9,10 @@
 ![Solidity: Passing](https://img.shields.io/badge/Solidity-passing-black?style=for-the-badge)
 ![JavaScript: Passing](https://img.shields.io/badge/JavaScript-passing-yellow?style=for-the-badge)
 ![TypeScript: Passing](https://img.shields.io/badge/Typescript-passing-blue?style=for-the-badge)
+![Rust: Passing](https://img.shields.io/badge/Rust-passing-critical?style=for-the-badge)
+![Swift: Passing](https://img.shields.io/badge/Swift-passing-orange?style=for-the-badge)
 ![Go: Running](https://img.shields.io/badge/Go-running-lightgray?style=for-the-badge)
-![Rust: Running](https://img.shields.io/badge/Rust-running-lightgray?style=for-the-badge)
+
 <br />
 ![NodeJs: Passing](https://img.shields.io/badge/NodeJs-passing-green?style=for-the-badge)
 ![NestJs: Passing](https://img.shields.io/badge/NestJs-passing-red?style=for-the-badge)
