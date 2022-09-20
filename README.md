@@ -21,6 +21,7 @@
 ![MSSQL: Passing](https://img.shields.io/badge/MSSQL-passing-informational?style=for-the-badge)
 ![MongoDB: Passing](https://img.shields.io/badge/MongoDB-passing-success?style=for-the-badge)
 ![GraphQL: Passing](https://img.shields.io/badge/GraphQL-passing-ff69b4?style=for-the-badge)
+![Prisma: Passing](https://img.shields.io/badge/Prisma-passing-lightgrey?style=for-the-badge)
 #
 ![Life: Zesty](https://img.shields.io/badge/Life-Zesty-red?style=for-the-badge)
 
