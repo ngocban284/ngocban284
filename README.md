@@ -16,6 +16,7 @@
 ![NodeJs: Passing](https://img.shields.io/badge/NodeJs-passing-green?style=for-the-badge)
 ![NestJs: Passing](https://img.shields.io/badge/NestJs-passing-red?style=for-the-badge)
 ![Ruby On Rails: Passing](https://img.shields.io/badge/RubyOnRails-passing-brown?style=for-the-badge)
+![ReactJs: Passing](https://img.shields.io/badge/ReactJs-passing-blue?style=for-the-badge)
 <br />
 ![MySQL: Passing](https://img.shields.io/badge/Mysql-passing-9cf?style=for-the-badge)
 ![MSSQL: Passing](https://img.shields.io/badge/MSSQL-passing-informational?style=for-the-badge)
