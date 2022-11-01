@@ -30,4 +30,4 @@
 
 ## ![](https://i.imgur.com/16b6BnZ.png) Positions
 
-- Server-Side Intern @ [TovChain](https://tovchain.io/)
+- Server-Side Intern @ [TovChain](https://tovchain.io/) @[Trava Finance](https://trava.finance/)
