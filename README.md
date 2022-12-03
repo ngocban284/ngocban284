@@ -31,3 +31,4 @@
 ## ![](https://i.imgur.com/16b6BnZ.png) Positions
 
 - Server-Side Intern @ [TovChain](https://tovchain.io/) @[Trava Finance](https://trava.finance/)
+- 内定者  @ [Infcurion](https://infcurion.com/)
