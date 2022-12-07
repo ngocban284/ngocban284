@@ -12,7 +12,7 @@
 ![Python: Passing](https://img.shields.io/badge/Python-passing-9cf?style=for-the-badge)
 ![Rust: Passing](https://img.shields.io/badge/Rust-passing-critical?style=for-the-badge)
 ![Swift: Passing](https://img.shields.io/badge/Swift-passing-orange?style=for-the-badge)
-![Go: Running](https://img.shields.io/badge/Go-running-lightgray?style=for-the-badge)
+![Go: Passing](https://img.shields.io/badge/Go-passing-blue?style=for-the-badge)
 ![Move: Running](https://img.shields.io/badge/Move-running-lightgray?style=for-the-badge)
 <br />
 ![NodeJs: Passing](https://img.shields.io/badge/NodeJs-passing-green?style=for-the-badge)
